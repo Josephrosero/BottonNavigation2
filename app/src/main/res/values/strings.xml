@@ -3,4 +3,8 @@
     <string name="item_1">recently</string>
     <string name="item_2">Favorites</string>
     <string name="item_3">Nearvy</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tst_1">lol</string>
 </resources>
